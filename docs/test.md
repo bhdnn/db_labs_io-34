@@ -9,19 +9,19 @@
 
 ![image](https://github.com/user-attachments/assets/38d2925a-ff80-415d-a069-ccf1ec182594)
 
-##GET - запит
+## GET - запит
 
 ### Перевірка змісту
 
 ![image](https://github.com/user-attachments/assets/f3c84893-0206-4904-b427-0b301cb3d565)
 
-##PUT - запит
+## PUT - запит
 
 ### Зміна назви змісту
 
 ![image](https://github.com/user-attachments/assets/24292d37-1103-4b28-8457-28022ddc2cbf)
 
-##DELETE - запит
+## DELETE - запит
 
 ### Видалення змісту
 
